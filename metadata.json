@@ -1,0 +1,7 @@
+{
+  "name": "Video Lens Shopping",
+  "description": "A production-ready Google Lens-like platform for manual object detection and shopping within videos using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
